@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  partymode
+
+  Created by ZhengCheng on 6/17/17.
+  Copyright © 2017 com. All rights reserved.
+*/
+
+"NSContactsUsageDescription" = "Wird benötigt um Partymode Mitglieder zu verwalten";
+"NSCameraUsageDescription" = "Wird benötigt für Profil und Chat";
+"NSPhotoLibraryUsageDescription" = "Wird benötigt für Profil und Chat";
